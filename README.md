@@ -10,3 +10,12 @@ WHERE CONDITION = TRUE
 
 ### DATA VISUALISATION
 ---
+### HOW TO DRAW A TABLE
+---
+
+| HEADING 1| HEADING 2| HEADING 3|
+|----------|----------|----------|
+| TABLE 1  | TABLE 2 | TABLE 3   |
+
+
+
